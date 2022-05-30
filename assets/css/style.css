@@ -567,6 +567,10 @@ section {
 }
 
 /* Download Button */
+#btn-download {
+  margin-top: 30px;
+}
+
 #btn-link {
   background: #ffffff;
   border: solid 1px #e6e6e6;
